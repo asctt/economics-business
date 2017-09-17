@@ -4,6 +4,8 @@ title: "Basic workflow"
 
 Building websites uses the same reproducible workflow you can use for your analyses and collaborations. It is very iterative. You can do it all from RStudio, with a combination of clicking or typing commands as you feel comfortable. 
 
+
+
 1. add content (text, code, images, etc) in an RMarkdown file
 1. knit the RMarkdown file to view
 1. update `_site.yml` (perhaps, if it is a new file)
@@ -17,6 +19,16 @@ Building websites uses the same reproducible workflow you can use for your analy
 Let's see what this looks like. We are not going to have time to learn all of the capabilities of R Markdown today, but the purpose here is to give you familiarlity with the workflow and confidence to explore further on your own.
 
 ----
+
+## Some examples
+
+$A = \pi r^2$
+$C = \pi 2r$
+
+### Inline r code
+
+two plus two is
+`r 2 + 2`
 
 ## RStudio landscape
 
