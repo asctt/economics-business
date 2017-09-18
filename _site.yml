@@ -1,14 +1,14 @@
-name: "R Markdown Websites Tutorial"
+name: "Economics and Business Year"
 navbar:
-  title: "HOME"
+  title: "START"
   left:
-    - text: "First Observations"
-      href: first_observations.html
-    - text: "Basic Workflow"
+    - text: "The Task"
+      href: task_desc.html
+    - text: "The Stimulus"
       href: basic_workflow.html
-    - text: "Getting Sophisticated"
+    - text: "The Criteria"
       href: getting_sophisticated.html
-    - text: "Your Turn"
+    - text: "Methods"
       href: your_turn.html
 output_dir: "."
 output:
