@@ -6,7 +6,7 @@ output:
     toc: true
     toc_float: true
 ---
-<div style="position: fixed; bottom: 0; left: 0;">
+<div style="position: relative; bottom: 0; left: 0; width: 30%;">
   ![](images/AscLogo.png) 
 </div>
 
