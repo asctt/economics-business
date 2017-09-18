@@ -1,6 +1,6 @@
 name: "ACACIA STATE COLLEGE" 
 navbar:
-  title: "ACACIA SC: Economics & Business [9]"
+  title: "Economics & Business[9]"
   left:
     - text: "The Task"
       href: task_desc.html
@@ -10,6 +10,8 @@ navbar:
       href: criteria.html
     - text: "Methods"
       href: methods.html
+    - text: "FAQ-Contact"
+      href: contact.html
 output_dir: "."
 output:
   html_document:

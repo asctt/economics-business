@@ -34,7 +34,7 @@ output:
 
 [Year 9 Economics and Business Achievement Standard](https://www.australiancurriculum.edu.au/f-10-curriculum/humanities-and-social-sciences/economics-and-business/?year=12559&strand=Economics+and+Business+Knowledge+and+Understanding&strand=Economics+and+Business+Skills&capability=ignore&capability=Literacy&capability=Numeracy&capability=Information+and+Communication+Technology+%28ICT%29+Capability&capability=Critical+and+Creative+Thinking&capability=Personal+and+Social+Capability&capability=Ethical+Understanding&capability=Intercultural+Understanding&priority=ignore&priority=Aboriginal+and+Torres+Strait+Islander+Histories+and+Cultures&priority=Asia+and+Australia%E2%80%99s+Engagement+with+Asia&priority=Sustainability&elaborations=true&elaborations=false&scotterms=false&isFirstPageLoad=false)  
 
-(ACARA, n.d.)
+(Australian Curriculum, Assessment and Reporting Authority [ACARA], n.d.)
 
 ## Help
 
