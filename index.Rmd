@@ -38,5 +38,5 @@ output:
 
 ## Help
 
-Go to the FAQ and help page. Any questions sent by email will be added to the FAQ as anonymouse question and answer.
+If you need help, go to the [Questions and FAQ](contact.html) page. Any questions sent by email will be added to the FAQ as anonymouse question and answer.
 
