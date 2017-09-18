@@ -9,10 +9,9 @@
 <meta name="generator" content="pandoc" />
 
 
-<meta name="author" content="" />
 
 
-<title>Task Description</title>
+<title>Background Information</title>
 
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -20,9 +19,6 @@
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
-<script src="site_libs/jqueryui-1.11.4/jquery-ui.min.js"></script>
-<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
-<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-1.1/textmate.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-1.1/highlight.js"></script>
@@ -165,101 +161,6 @@ $(document).ready(function () {
 
 
 
-<script>
-$(document).ready(function ()  {
-
-    // move toc-ignore selectors from section div to header
-    $('div.section.toc-ignore')
-        .removeClass('toc-ignore')
-        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
-
-    // establish options
-    var options = {
-      selectors: "h1,h2,h3",
-      theme: "bootstrap3",
-      context: '.toc-content',
-      hashGenerator: function (text) {
-        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_').toLowerCase();
-      },
-      ignoreSelector: ".toc-ignore",
-      scrollTo: 0
-    };
-    options.showAndHide = true;
-    options.smoothScroll = true;
-
-    // tocify
-    var toc = $("#TOC").tocify(options).data("toc-tocify");
-});
-</script>
-
-<style type="text/css">
-
-#TOC {
-  margin: 25px 0px 20px 0px;
-}
-@media (max-width: 768px) {
-#TOC {
-  position: relative;
-  width: 100%;
-}
-}
-
-
-.toc-content {
-  padding-left: 30px;
-  padding-right: 40px;
-}
-
-div.main-container {
-  max-width: 1200px;
-}
-
-div.tocify {
-  width: 20%;
-  max-width: 260px;
-  max-height: 85%;
-}
-
-@media (min-width: 768px) and (max-width: 991px) {
-  div.tocify {
-    width: 25%;
-  }
-}
-
-@media (max-width: 767px) {
-  div.tocify {
-    width: 100%;
-    max-width: none;
-  }
-}
-
-.tocify ul, .tocify li {
-  line-height: 20px;
-}
-
-.tocify-subheader .tocify-item {
-  font-size: 0.90em;
-  padding-left: 25px;
-  text-indent: 0;
-}
-
-.tocify .list-group-item {
-  border-radius: 0px;
-}
-
-
-</style>
-
-<!-- setup 3col/9col grid for toc_float and main content  -->
-<div class="row-fluid">
-<div class="col-xs-12 col-sm-4 col-md-3">
-<div id="TOC" class="tocify">
-</div>
-</div>
-
-<div class="toc-content col-xs-12 col-sm-8 col-md-9">
-
-
 
 
 <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
@@ -298,7 +199,7 @@ div.tocify {
 
 
 
-<h1 class="title toc-ignore">Task Description</h1>
+<h1 class="title toc-ignore">Background Information</h1>
 
 </div>
 
@@ -309,41 +210,9 @@ div.tocify {
 
 </div>
 </div>
-<div id="goal" class="section level3">
-<h3>Goal</h3>
-<p>Your goal is to conduct an inquiry and present a plan for a client about strategies to manage finances and accumulate future savings in a written statement or recorded message of advice.</p>
-</div>
-<div id="role" class="section level3">
-<h3>Role</h3>
-<p>You are a recent graduate [financial adviser] for Acacia Asset Management. You have been provided with a new client, 20-year-old Mr Aden Luck, who is anxious to understand how to manage his personal finances and build savings for the future.</p>
-</div>
-<div id="audience" class="section level3">
-<h3>Audience</h3>
-<p>Aden Luck is new to investing. You will need to provide clear explanations.</p>
-</div>
-<div id="format" class="section level3">
-<h3>Format</h3>
-<p>Your presentation will include visual elements, such as charts. You can choose to write your response as an email with embedded images or record it as a video presentation.</p>
-</div>
-<div id="task" class="section level3">
-<h3>Task</h3>
-<p>Analyse Mr Luck’s situation and provide a financial plan with explanations.</p>
-</div>
-<div id="success-criteria" class="section level3">
-<h3>Success-Criteria</h3>
-<p>Please see the Criteria Sheet</p>
-</div>
-<div id="standard" class="section level3">
-<h3>Standard</h3>
-<p>Pay attention to these aspects of the Year 9 Economics and Business Achievement Standard:</p>
-<ul>
-<li><p>“They explain the importance of managing financial risks and rewards and analyse the different strategies that may be used”</p></li>
-<li><p>“When researching, students develop questions and simple hypotheses to frame an investigation of an economic or business issue”</p></li>
-<li><p>“They gather and analyse relevant data and information from different sources to answer questions, identify trends and explain relationships”</p></li>
-<li><p>“Students generate alternative responses to an issue and use cost-benefit analysis and appropriate criteria to propose a course of action”</p></li>
-</ul>
-<p>(ACARA, n.d.)</p>
-</div>
+<hr />
+<p>At Acacia Asset Management (AAM), we provide expertise and the highest quality financial advice. We know to help you on your financial journey, we need to know where you want to go. So we have your personal situation, your goals and objectives in mind when we develop a financial plan. We help you understand strategy, risk, different asset classes, different platforms. With AAM, we help you achieve you goals on time.</p>
+<hr />
 
 <footer role="contentinfo" id="site-footer">
 
@@ -353,8 +222,6 @@ div.tocify {
 </footer>
 
 
-</div>
-</div>
 
 </div>
 

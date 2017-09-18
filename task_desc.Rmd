@@ -3,8 +3,47 @@ title: "Task Description"
 author:  
 output:
   html_document:
-    fig_width: 1
+    toc: true
+    toc_float: true
 ---
+<div style="position: fixed; bottom: 0; left: 0;">
+  ![](images/AscLogo.png) 
+</div>
 
-This is the task GRAFTSS  
-Genre Role Audience Format T Success Criteria Standard
+### Goal 
+
+Your goal is to conduct an inquiry and present a plan for a client about strategies to manage finances and accumulate future savings in a written statement or recorded message of advice.
+
+### Role 
+
+You are a recent graduate [financial adviser] for Acacia Asset Management. You have been provided with a new client, 20-year-old Mr Aden Luck, who is anxious to understand how to manage his personal finances and build savings for the future.  
+ 
+### Audience 
+
+Aden Luck is new to investing. You will need to provide clear explanations.
+
+### Format 
+
+Your presentation will include visual elements, such as charts. You can choose to write your response as an email with embedded images or record it as a video presentation.
+
+### Task 
+
+Analyse Mr Luck's situation and provide a financial plan with explanations.
+
+### Success-Criteria 
+
+Please see the Criteria Sheet
+
+### Standard
+
+Pay attention to these aspects of the Year 9 Economics and Business Achievement Standard:
+
+* "They explain the importance of managing financial risks and rewards and analyse the different strategies that may be used"
+
+* "When researching, students develop questions and simple hypotheses to frame an investigation of an economic or business issue"
+
+* "They gather and analyse relevant data and information from different sources to answer questions, identify trends and explain relationships" 
+
+* "Students generate alternative responses to an issue and use cost-benefit analysis and appropriate criteria to propose a course of action"
+
+(ACARA, n.d.)

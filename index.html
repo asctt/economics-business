@@ -9,10 +9,10 @@
 <meta name="generator" content="pandoc" />
 
 
-<meta name="author" content="asctt 2017-09-17" />
+<meta name="author" content="" />
 
 
-<title>Year 9 Economics and Business Assessment Task 1</title>
+<title>Assessment Task 1</title>
 
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -20,6 +20,9 @@
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/jqueryui-1.11.4/jquery-ui.min.js"></script>
+<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
+<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-1.1/textmate.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-1.1/highlight.js"></script>
@@ -162,6 +165,101 @@ $(document).ready(function () {
 
 
 
+<script>
+$(document).ready(function ()  {
+
+    // move toc-ignore selectors from section div to header
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    // establish options
+    var options = {
+      selectors: "h1,h2,h3",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_').toLowerCase();
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = true;
+    options.smoothScroll = true;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
+</script>
+
+<style type="text/css">
+
+#TOC {
+  margin: 25px 0px 20px 0px;
+}
+@media (max-width: 768px) {
+#TOC {
+  position: relative;
+  width: 100%;
+}
+}
+
+
+.toc-content {
+  padding-left: 30px;
+  padding-right: 40px;
+}
+
+div.main-container {
+  max-width: 1200px;
+}
+
+div.tocify {
+  width: 20%;
+  max-width: 260px;
+  max-height: 85%;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  div.tocify {
+    width: 25%;
+  }
+}
+
+@media (max-width: 767px) {
+  div.tocify {
+    width: 100%;
+    max-width: none;
+  }
+}
+
+.tocify ul, .tocify li {
+  line-height: 20px;
+}
+
+.tocify-subheader .tocify-item {
+  font-size: 0.90em;
+  padding-left: 25px;
+  text-indent: 0;
+}
+
+.tocify .list-group-item {
+  border-radius: 0px;
+}
+
+
+</style>
+
+<!-- setup 3col/9col grid for toc_float and main content  -->
+<div class="row-fluid">
+<div class="col-xs-12 col-sm-4 col-md-3">
+<div id="TOC" class="tocify">
+</div>
+</div>
+
+<div class="toc-content col-xs-12 col-sm-8 col-md-9">
+
+
 
 
 <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
@@ -172,7 +270,7 @@ $(document).ready(function () {
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="index.html">START</a>
+      <a class="navbar-brand" href="index.html">ACACIA SC: Economics & Business [9]</a>
     </div>
     <div id="navbar" class="navbar-collapse collapse">
       <ul class="nav navbar-nav">
@@ -180,13 +278,13 @@ $(document).ready(function () {
   <a href="task_desc.html">The Task</a>
 </li>
 <li>
-  <a href="basic_workflow.html">The Stimulus</a>
+  <a href="stimulus.html">The Stimulus</a>
 </li>
 <li>
-  <a href="getting_sophisticated.html">The Criteria</a>
+  <a href="criteria.html">The Criteria</a>
 </li>
 <li>
-  <a href="your_turn.html">Methods</a>
+  <a href="methods.html">Methods</a>
 </li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
@@ -200,26 +298,53 @@ $(document).ready(function () {
 
 
 
-<h1 class="title toc-ignore">Year 9 Economics and Business Assessment Task 1</h1>
-<h4 class="author"><em><a href="https://github.com/asctt">asctt</a> 2017-09-17</em></h4>
+<h1 class="title toc-ignore">Assessment Task 1</h1>
 
 </div>
 
 
-<p>This site describes the first task for Year 9 Economics and Business students of Acacia State College.</p>
-<p>Use the menu bar at the top to navigate to relevant sections of your assignment.</p>
-<p>In completing this task, you are showing evidence of having achieved the Achievement Standard.</p>
+<div style="position: fixed; bottom: 0; left: 0;">
+<div class="figure">
+<img src="images/AscLogo.png" />
+
+</div>
+</div>
+<div id="overview" class="section level2">
+<h2>Overview</h2>
+<ul>
+<li><p>This site describes the first task for Year 9 Economics and Business students of Acacia State College.</p></li>
+<li><p>Use the menu bar at the top to navigate to relevant sections of your assignment.</p></li>
+<li><p>Use the menu box at the left to jump to entries on the page</p></li>
+<li><p>In completing this task, you are showing evidence of having achieved the Achievement Standard.</p></li>
+</ul>
 <hr />
+</div>
 <div id="year-9-achievement-standard---economics-and-business" class="section level2">
 <h2>Year 9 Achievement Standard - Economics and Business</h2>
-<p><a href="https://www.australiancurriculum.edu.au/f-10-curriculum/humanities-and-social-sciences/economics-and-business/?year=12559&amp;strand=Economics+and+Business+Knowledge+and+Understanding&amp;strand=Economics+and+Business+Skills&amp;capability=ignore&amp;capability=Literacy&amp;capability=Numeracy&amp;capability=Information+and+Communication+Technology+%28ICT%29+Capability&amp;capability=Critical+and+Creative+Thinking&amp;capability=Personal+and+Social+Capability&amp;capability=Ethical+Understanding&amp;capability=Intercultural+Understanding&amp;priority=ignore&amp;priority=Aboriginal+and+Torres+Strait+Islander+Histories+and+Cultures&amp;priority=Asia+and+Australia%E2%80%99s+Engagement+with+Asia&amp;priority=Sustainability&amp;elaborations=true&amp;elaborations=false&amp;scotterms=false&amp;isFirstPageLoad=false">Year 9 Economics and Business Achievement Standard</a></p>
+<blockquote>
 <p>By the end of Year 9, students explain the role of the Australian economy in allocating and distributing resources, and analyse the interdependence of participants in the global economy. They explain the importance of managing financial risks and rewards and analyse the different strategies that may be used. They explain why businesses seek to create a competitive advantage, including through innovation, and evaluate the strategies that may be used. Students analyse the roles and responsibilities of participants in the workplace.</p>
+</blockquote>
+<blockquote>
 <p>When researching, students develop questions and simple hypotheses to frame an investigation of an economic or business issue. They gather and analyse relevant data and information from different sources to answer questions, identify trends and explain relationships. Students generate alternative responses to an issue and use cost-benefit analysis and appropriate criteria to propose a course of action. They apply economics and business knowledge, skills and concepts to familiar, unfamiliar and hypothetical problems. Students develop and present evidence-based conclusions and reasoned arguments using appropriate texts, subject-specific language and concepts. They analyse the effects of economic and business decisions and the potential consequences of alternative actions.</p>
-<hr />
+</blockquote>
+<p><a href="https://www.australiancurriculum.edu.au/f-10-curriculum/humanities-and-social-sciences/economics-and-business/?year=12559&amp;strand=Economics+and+Business+Knowledge+and+Understanding&amp;strand=Economics+and+Business+Skills&amp;capability=ignore&amp;capability=Literacy&amp;capability=Numeracy&amp;capability=Information+and+Communication+Technology+%28ICT%29+Capability&amp;capability=Critical+and+Creative+Thinking&amp;capability=Personal+and+Social+Capability&amp;capability=Ethical+Understanding&amp;capability=Intercultural+Understanding&amp;priority=ignore&amp;priority=Aboriginal+and+Torres+Strait+Islander+Histories+and+Cultures&amp;priority=Asia+and+Australia%E2%80%99s+Engagement+with+Asia&amp;priority=Sustainability&amp;elaborations=true&amp;elaborations=false&amp;scotterms=false&amp;isFirstPageLoad=false">Year 9 Economics and Business Achievement Standard</a></p>
+<p>(ACARA, n.d.)</p>
+</div>
+<div id="help" class="section level2">
+<h2>Help</h2>
+<p>Go to the FAQ and help page. Any questions sent by email will be added to the FAQ as anonymouse question and answer.</p>
 </div>
 
+<footer role="contentinfo" id="site-footer">
+
+<!-- /.bottom-menu -->
+	<p class="copyright">&#169; 2017,
+		powered by <a href="http://www.r-project.org">R</a> + <a href="http://rmarkdown.rstudio.com">RMarkdown</a> + <a href="http://github.com">Github</a>.</p>
+</footer>
 
 
+</div>
+</div>
 
 </div>
 

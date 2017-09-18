@@ -1,19 +1,19 @@
-name: "Economics and Business Year"
+name: "ACACIA STATE COLLEGE" 
 navbar:
-  title: "START"
+  title: "ACACIA SC: Economics & Business [9]"
   left:
     - text: "The Task"
       href: task_desc.html
     - text: "The Stimulus"
-      href: basic_workflow.html
+      href: stimulus.html
     - text: "The Criteria"
-      href: getting_sophisticated.html
+      href: criteria.html
     - text: "Methods"
-      href: your_turn.html
+      href: methods.html
 output_dir: "."
 output:
   html_document:
     theme: yeti
     highlight: textmate
-#    include:
-#      after_body: _footer.html
+    include:
+      after_body: _footer.html
