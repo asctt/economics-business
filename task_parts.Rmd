@@ -11,17 +11,196 @@ output:
 </div>
 
 
-# Breaking down the task: 
-Stage 1- Unpack the context and business issue 
-Stage 2- Formulate questions to structure the inquiry 
-Stage 3- Collect investment strategy data and information 
-Stage 4- Collect risk management data and information
-Stage 5- Develop and present evidence-based conclusions and reasoned arguments in a statement of advice 
+# Breaking down the task:
+
+Stage 
+1. Unpack the context and business issue 
+2. Formulate questions to structure the inquiry 
+3. Collect investment strategy data and information 
+4. Collect risk management data and information
+5. Develop and present evidence-based conclusions and reasoned arguments in a statement of advice 
 
 
 
+# Stage 1: Unpacking the context and business issue 
+Read (Source 1) of the stimulus to understand the context, objective and key terms of the assessment task.  
+Remember: If you have difficulties, run a text search  on the Sources page. All information is either provided or linked there 
 
+##  Financial adviser
+Short written response. 
+
+### As the financial adviser for AAM 
+to which workplace participant group do you belong? A. employees B. employers C. Industrial Organisations D. the government 
+
+###  Analyse the roles and responsibilities of a financial adviser
+Complete the table below. (Hint: Use the information provided at Question 1 about the context, objective and key terms.) 
+
+Participant    | Roles        | Responsibilities 
+---------------|--------------|------------
+Financial adviser |     |    
+### GFC impact
+ Explain how the global financial crisis impacted on the workplace and changed the roles and responsibilities of financial advisers. 
+
+# Stage 2: Develop questions to guide an inquiry
  
+Develop a hypothesis to frame your investigation. 
+A hypothesis is a statement that is assumed to be true. It forms the basis of an evidence-based conclusion. 
 
+## Record your hypothesis. 
 
+##  Develop questions about the hypothesis to frame your investigation of alternative strategies that manage financial risks and rewards. 
+(literacy) short-term and long-term goals, investment strategies, risk management strategies 
+Question 1: 
+Question 2: 
+Question 3: 
+
+## Scaffold at B
+Remember, your objective as financial adviser is to conduct an inquiry and propose a course of action for client about strategies to accumulate future savings and manage personal finances in a written statement of advice. Your advice to the client should consider alternative strategies to manage risks and rewards. 
+
+# Stage 3: Gather data and information about investment strategies 
+(Source 2) ‘Client interview transcript’  stimulus. The transcript provides personal and financial information 
+
+##  Present relevant client data and information 
+
+**Personal and financial information** 
+
+Field             | Comment
+------------------|--------------------
+Client name       |
+Age               |
+Employment        |
+Annual income     |  
+Assets            | 
+Liabilities       | 
+Consumer          |
+Protections       |  
+Attitude to risk  | 
+Financial goals   |
+Short-term goals  |  
+Long-term goals   |
+
+##  Read and interpret the data and information represented in the graph at (Source 3) 
+
+Explain what data and information are represented in the graph. 
+ Identify and explain which investment option would make a moderate return on investment over the long term. Be sure to use data and information from the graph to support your response. 
+ 
+## Read and analyse (Source 4) of the assessment stimulus, which contains information about the benefits and costs of investment portfolio options. 
+
+a. Identify one investment option that guarantees a particular rate of return. Explain why a financial adviser would recommend it as suitable to include as part of an investment portfolio. 
+Investment option: 
+Reasons for its inclusion in an investment portfolio: 
+b. Identify an investment option that is highly susceptible to price fluctuations in the market. Explain why a financial adviser would recommend it as suitable to include as part of an investment portfolio. 
+Investment option: 
+Reasons for its inclusion in an investment portfolio: 
+c. Identify an investment option that provides quick and easy access to funds. Explain why a financial adviser would recommend it as suitable to include as part of an investment portfolio. 
+Investment option: 
+Reasons for its inclusion in an investment portfolio: 
+
+## Analyse the investment options available and use appropriate criteria to make a decision about a proposed course of action regarding an investment strategy for client
+
+a. Identify a range of viable investment options and record them as Options A, B and C on the matrix below. 
+b. List the client’s financial goals and objectives as the appropriate criteria in the left column. 
+c. Use the criteria to analyse the costs and benefits of each of the investment options. 
+Investment options Criteria Option A: Option B: Option C: 
+Risk and 
+return: 
+Investment options Criteria Option A: Option B: Option C: 
+Short-term 
+objectives: 
+Long-term 
+objectives: 
+
+## Evaluate how the alternative investment options will manage client's finances and accumulate future savings.
+ 
+Use the following scale to evaluate how effectively the investment options meet client's needs according to the criteria. 
+
+* 2 = Highly suitable  
+* 1 = Somewhat suitable  
+* 0 = Not a very suitable option 
+
+a. Write notes to evaluate how effectively Investment option A will manage the client’s finances and accumulate future savings. 
+b. Write notes to evaluate how effectively Investment option B will manage the client’s finances and accumulate future savings. 
+c. Write notes to evaluate how effectively Investment option C will manage the client’s finances and accumulate future savings. 
+
+## Scaffold at C
+
+Your analysis should consider factors like: the level of risk, desired returns, hidden costs and benefits, and investment time frames. 
+
+# Stage 4: Gather data and information about risk management strategies 
+
+## Gather relevant and reliable information about different strategies for managing financial risks from a variety of online and print sources. 
+
+There is a variety of sources that provide reliable and relevant data and information about financial risk management strategies, for example: MoneySmart by ASIC and the Australian Competition and Consumer Commission (ACCC). Don’t forget to record the source of your data! 
+Strategies for managing financial risks Provide a definition and example Explain how each strategy manages financial risks Sources 
+Managing debt 
+and/or over-
+indebtedness Definition: Example: How this strategy manages financial risks: 
+
+Strategies for managing financial risks Provide a definition and example Explain how each strategy manages financial risks
+ Sources 
+Diversifying 
+investments Definition: Example: How this strategy manages financial risks: 
+Consumer 
+protection Definition: Example: How this strategy manages financial risks: 
+
+Strategies for managing financial risks Provide a definition and example Explain how each strategy manages financial risks Sources 
+Scam avoidance Definition: Example: How this strategy manages financial risks: 
+
+## Explain why it is important to manage financial risks and rewards. 
+
+## Analyse and evaluate the risk management strategies available using appropriate criteria to make a decision about a proposed course of action for client. 
+
+a. The client’s specific financial needs have been listed in the table below. 
+b. Generate specific risk management strategies that could be applied to manage each 
+aspect of the client’s finances. 
+c. Write notes to evaluate how effectively each risk management strategy 
+will manage the client’s finances. 
+List of client’s financial needs Generate a specific risk management strategy Evaluate the effectiveness of each strategy in managing the client’s finances 
+Balanced risk 
+profile preferred 
+$10 000 car loan 
+outstanding 
+$16 000 HECS debt 
+No existing 
+insurance 
+Mentioned investing 
+with family 
+Mentioned investing 
+in friend’s 
+marketing business 
+
+# Stage 5: Develop and present evidence-based conclusions and reasoned arguments in a statement of advice 
+
+Your work from Stage 3 on investment strategies and Stage 4 on risk management form the basis to plan a course of action that will accumulate future savings and manage finances for client. 
+Proposed investment and risk management strategies 
+Recommendation: Amount to be allocated and/or action to be taken Justification for advice Predicted consequences 
+
+## Propose a course of action about strategies that will manage finances and accumulate future savings for client. 
+
+(literacy) Use the following headings
+
+Title page  Title and date of report  Client’s name  Financial adviser’s name and company details 
+
+1.0 Purpose 
+Outline the purpose of the report 
+2.0 Financial goals and objectives 
+Provide a summary of information about the client, such as: financial goals and objectives other relevant personal and financial information about the client. 
+3.0 Managing risks and rewards  
+Explain the importance of managing risks and rewards 
+ Identify the client’s risk profile 
+ Explain how a range of investment and risk management strategies may be used to manage risk and rewards 
+4.0 Financial advice 
+4.1 Proposed investment strategies 
+Propose a course of action regarding investment strategies 
+Analyse and evaluate how the investment strategies will manage the client’s finances and accumulate future savings 
+Use evidence to support conclusions 
+4.2 Proposed risk management strategies 
+Propose a course of action regarding risk management strategies 
+Analyse and evaluate how the risk management strategies will manage the client’s finances and accumulate future savings Use evidence to support conclusions  
+5.0 Future outlook 
+Summarise the proposed course of action 
+Predict the potential consequences of implementing the proposed course of action  
+
+## Scaffold at E
+Remember to use appropriate text structures and language features in your report. Consider appropriate language and modality to indicate the degree of certainty when proposing a course of action in the report. 
 
