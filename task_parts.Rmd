@@ -13,7 +13,8 @@ output:
 
 # Breaking down the task:
 
-Stage 
+Stage
+
 1. Unpack the context and business issue 
 2. Formulate questions to structure the inquiry 
 3. Collect investment strategy data and information 
