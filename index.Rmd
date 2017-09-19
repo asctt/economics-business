@@ -1,5 +1,5 @@
 ---
-title: "Assessment Task 1"
+title: "Assessment: Economics and Business [9]"
 author:  
 output:
   html_document:
@@ -11,32 +11,54 @@ output:
   ![](images/AscLogo.png) 
 </div>
 
-## Overview
+## How to use this site
 
 
-* This site describes the first task for Year 9 Economics and Business students of Acacia State College.   
+This site describes the first task for Year 9 Economics and Business students of Acacia State College and acts as a guide.  
 
-* Use the menu bar at the top to navigate to relevant sections of your assignment.   
+* Use the menu bar at the top to navigate to relevant sections of your assignment.
+
+* You can always return here by clicking "Economics and Business 9"
 
 * Use the menu box at the left to jump to entries on the page
 
-* In completing this task, you are showing evidence of having achieved the Achievement Standard.   
+***
 
----
+* Use each of the pages to help
+    + Overview: Broad requirements 
+    + Stimulus: The source materials
+    + Task: Details and steps to completing the task
+    + Criteria: How you will be assessed
+    
 
-## Year 9 Achievement Standard  - Economics and Business
+
+## What the task assesses
+
+In completing this task, you are showing evidence of having achieved the [Year 9 Economics and Business Achievement Standard](https://www.australiancurriculum.edu.au/f-10-curriculum/humanities-and-social-sciences/economics-and-business/?year=12559&strand=Economics+and+Business+Knowledge+and+Understanding&strand=Economics+and+Business+Skills&capability=ignore&capability=Literacy&capability=Numeracy&capability=Information+and+Communication+Technology+%28ICT%29+Capability&capability=Critical+and+Creative+Thinking&capability=Personal+and+Social+Capability&capability=Ethical+Understanding&capability=Intercultural+Understanding&priority=ignore&priority=Aboriginal+and+Torres+Strait+Islander+Histories+and+Cultures&priority=Asia+and+Australia%E2%80%99s+Engagement+with+Asia&priority=Sustainability&elaborations=true&elaborations=false&scotterms=false&isFirstPageLoad=false) 
+
+Pay attention to these aspects of the Achievement Standard:
+
+* "[Students] explain the importance of managing financial risks and rewards and analyse the different strategies that may be used"
+
+* "When researching, students develop questions and simple hypotheses to frame an investigation of an economic or business issue"
+
+* "[Students] gather and analyse relevant data and information from different sources to answer questions, identify trends and explain relationships" 
+
+* "Students generate alternative responses to an issue and use cost-benefit analysis and appropriate criteria to propose a course of action"
+
+(Australian Curriculum, Assessment and Reporting Authority [ACARA], n.d.a)
 
 
+In completing this task, you will draw on your skills from the [General Capabilities](https://www.australiancurriculum.edu.au/f-10-curriculum/general-capabilities). This site will guide you to pay attention to [Literacy](https://www.australiancurriculum.edu.au/f-10-curriculum/general-capabilities/literacy/), [Numeracy](https://www.australiancurriculum.edu.au/f-10-curriculum/general-capabilities/numeracy/) and [Information and Communitication (ICT)](https://www.australiancurriculum.edu.au/f-10-curriculum/general-capabilities/information-and-communication-technology-ict-capability/) capabilities where needed.
 
-> By the end of Year 9, students explain the role of the Australian economy in allocating and distributing resources, and analyse the interdependence of participants in the global economy. They explain the importance of managing financial risks and rewards and analyse the different strategies that may be used. They explain why businesses seek to create a competitive advantage, including through innovation, and evaluate the strategies that may be used. Students analyse the roles and responsibilities of participants in the workplace.   
 
-> When researching, students develop questions and simple hypotheses to frame an investigation of an economic or business issue. They gather and analyse relevant data and information from different sources to answer questions, identify trends and explain relationships. Students generate alternative responses to an issue and use cost-benefit analysis and appropriate criteria to propose a course of action. They apply economics and business knowledge, skills and concepts to familiar, unfamiliar and hypothetical problems. Students develop and present evidence-based conclusions and reasoned arguments using appropriate texts, subject-specific language and concepts. They analyse the effects of economic and business decisions and the potential consequences of alternative actions.
+## Why there so much guidance
 
-[Year 9 Economics and Business Achievement Standard](https://www.australiancurriculum.edu.au/f-10-curriculum/humanities-and-social-sciences/economics-and-business/?year=12559&strand=Economics+and+Business+Knowledge+and+Understanding&strand=Economics+and+Business+Skills&capability=ignore&capability=Literacy&capability=Numeracy&capability=Information+and+Communication+Technology+%28ICT%29+Capability&capability=Critical+and+Creative+Thinking&capability=Personal+and+Social+Capability&capability=Ethical+Understanding&capability=Intercultural+Understanding&priority=ignore&priority=Aboriginal+and+Torres+Strait+Islander+Histories+and+Cultures&priority=Asia+and+Australia%E2%80%99s+Engagement+with+Asia&priority=Sustainability&elaborations=true&elaborations=false&scotterms=false&isFirstPageLoad=false)  
+It may look like much of the task is in the form of follow the instructions, but these are just steps to guide you to the real task of thinking.
 
-(Australian Curriculum, Assessment and Reporting Authority [ACARA], n.d.)
+As students, you will develop stronger skills in critically thinking about issues if your reading is carefully guided (Healy, 2008, p.23). This will also help you appreciate the "design components" of the various sources and presentation piece (Healy, 2008, p.27). Directing you to "important features" "complements" your learning as you engage with the task (Tan, 2008, p.156).
 
 ## Help
 
-If you need help, go to the [Questions and FAQ](contact.html) page. Any questions sent by email will be added to the FAQ as anonymouse question and answer.
+If you need help, go to the [FAQ - Contact](contact.html) page. Any questions sent by email will be added to the FAQ as anonymouse question and answer.
 
