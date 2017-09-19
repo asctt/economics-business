@@ -1,0 +1,27 @@
+---
+title: "The Assessment Task"
+author:  
+output:
+  html_document:
+    toc: true
+    toc_float: true
+---
+<div style="position: relative; bottom: 0; left: 0; width: 30%;">
+  ![](images/AscLogo.png) 
+</div>
+
+
+# Breaking down the task: 
+Stage 1- Unpack the context and business issue 
+Stage 2- Formulate questions to structure the inquiry 
+Stage 3- Collect investment strategy data and information 
+Stage 4- Collect risk management data and information
+Stage 5- Develop and present evidence-based conclusions and reasoned arguments in a statement of advice 
+
+
+
+
+ 
+
+
+

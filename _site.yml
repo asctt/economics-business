@@ -2,10 +2,12 @@ name: "ACACIA STATE COLLEGE"
 navbar:
   title: "Economics & Business[9]"
   left:
-    - text: "The Task"
+    - text: "Overview"
       href: task_desc.html
     - text: "The Stimulus"
       href: stimulus.html
+    - text: "The Task"
+      href: task_parts.html
     - text: "The Criteria"
       href: criteria.html
     - text: "Methods"

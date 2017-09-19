@@ -1,5 +1,5 @@
 ---
-title: "Task Description"
+title: "Overview of task"
 author:  
 output:
   html_document:
@@ -10,31 +10,41 @@ output:
   ![](images/AscLogo.png) 
 </div>
 
-### Goal 
+# Conditions 
+Individual task  
+Completed in class time
+Stimulus material provided with task
+Length: 400–800 words for the response (stage 5)  
+Use a referencing style recommended by your teacher 
+Stages 1 – 5 must be completed  
+Stages 1 – 4 form the ground work for Stage 5: Response to client (advice)  
+Submit in two parts: A (Stages 1 – 4) B (Stage 5)
+
+## Goal 
 
 Your goal is to conduct an inquiry and present a plan for a client about strategies to manage finances and accumulate future savings in a written statement or recorded message of advice.
 
-### Role 
+## Role 
 
 You are a recent graduate [financial adviser] for Acacia Asset Management. You have been provided with a new client, 20-year-old Mr Aden Luck, who is anxious to understand how to manage his personal finances and build savings for the future.  
  
-### Audience 
+## Audience 
 
 Aden Luck is new to investing. You will need to provide clear explanations.
 
-### Format 
+## Format 
 
 Your presentation will include visual elements, such as charts. You can choose to write your response as an email with embedded images or record it as a video presentation.
 
-### Task 
+## Task 
 
 Analyse Mr Luck's situation and provide a financial plan with explanations.
 
-### Success-Criteria 
+## Success-Criteria 
 
 Please see the Criteria Sheet
 
-### Standard
+## Standard
 
 Pay attention to these aspects of the Year 9 Economics and Business Achievement Standard:
 
