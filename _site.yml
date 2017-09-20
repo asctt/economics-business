@@ -4,8 +4,8 @@ navbar:
   left:
     - text: "Overview"
       href: task_desc.html
-    - text: "The Stimulus"
-      href: stimulus.html
+    - text: "Sources"
+      href: source_material.html
     - text: "The Task"
       href: task_parts.html
     - text: "The Criteria"

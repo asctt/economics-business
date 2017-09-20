@@ -27,9 +27,7 @@ output:
 
 The task is described below following the RAFT method: Role, Audience, Format, Topic (Santa, 1988, p.120). 
 
-
-
-Your goal is to conduct an inquiry and present a plan for a client about strategies to manage finances and accumulate future savings in a written statement or recorded message of advice.
+Your objective is to conduct an inquiry and propose a course of action for client about strategies to manage finances and accumulate future savings in a a statement of advice presented electronically.
 
 ## Role 
 
