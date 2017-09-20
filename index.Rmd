@@ -14,11 +14,11 @@ output:
 ## How to use this site
 
 
-This site describes the first task for Year 9 Economics and Business students of Acacia State College and acts as a guide.  
+This site describes the first task for Year 9 Economics and Business students of Acacia State College and acts as a guide, task document and criteria document.  
 
 * Use the menu bar at the top to navigate to relevant sections of your assignment.
 
-* You can always return here by clicking "Economics and Business 9"
+* You can always return here by clicking "**Economics and Business[9]**" at the top left of any page.
 
 * Use the menu box at the left to jump to entries on the page
 

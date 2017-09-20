@@ -20,106 +20,45 @@ output:
 
 # Your Client
 
-Mr Aden Luck has won second division in the lottery. He realises how lucky he is and does not want this felicitacious event to dissapate.
+Mr Aden Luck has won the lottery. He realises how lucky he is and does not want this good fortune to dissapate.
 
-Your manager has passed the task on to you including the following email produced from the AFM web enquiry form.
+Your manager has passed the task on to you including the following email produced from the AFM web enquiry form. 
 
-> Name: Aden Luck
-> Age Range: 18 - 24
+**Enquiry details**
 
-
-
-# Links 
-[MoneySmart](https://www.moneysmart.gov.au/) Investment advice from the Australian Securities and Investment Commission
-
-
-[Yields on investment](http://www.asx.com.au/education/investor-update-newsletter/201506-what-return-can-you-expect-in-this-market.htm)
-
-# Investment Options
-> There are four main types of investments, also called asset classes, each with their own benefits and risks. These are:
-* Cash
-* Fixed interest
-* Shares
-* Property
-
-(CommBank, n.d.)
-
-[Link](https://www.commbank.com.au/guidance/investing/different-types-of-investments-201607.html)
-
-## Summary
-
-*Savings account* 
-
-* You earn income from interest 
-* You can access your money anytime with a debit card 
-* There's virtually no risk of losing your money 
-* Very safe — deposits < $250 000 guaranteed by the government 
-* Interest rates change regularly so income not consistent 
-* Interest earned from savings is taxable 
-* Account-keeping and transaction fees are often charged 
-
-*Fixed term deposit* 
-
-* Can calculate exactly what your return will be as the interest rate does not change for the term of investment 
-* Rates of return are often slightly higher than a regular savings account 
-* There's virtually no risk of losing your money 
-* Very safe — deposits < $250 000 guaranteed by the Government 
-* Penalties are incurred if you wish to access your money before the term deposit matures 
-* Less flexible than regular online savings accounts 
-* Honeymoon rates can drop if the investment automatically rolls over to a new term at maturity 
-
-*Property investment* 
-
-* You are investing in a tangible asset 
-* Property can be less price volatile than shares or other investments 
-* Potential to make a capital gain from growth in the value of the property 
-* Potential to earn a regular income from rent 
-* Tax benefits through negative gearing 
-* There are very high entry and exit costs (legal fees, stamp duty, agent commissions, etc.) 
-* Rental income often won’t cover your mortgage payments or other expenses 
-* A jump in interest rates will decrease your returns 
-* You may have to cover maintenance costs and periods of time without a tenant 
-* Takes many months to sell property assets so you won’t be able to access investment quickly 
-* Run risk of negative equity where the property market declined and investors owe more than the market value of the property 
-
-*Share funds* 
-
-* Potential capital gains from owning an asset that increases in value over time 
-* Potential income from dividends 
-* Lower tax rates on long-term capital gains 
-* Can sell and liquefy assets within a few days 
-* Prices highly volatile 
-* Dividends may vary 
-* If company goes bankrupt, money could be lost 
-* Small brokerage fees paid for transactions 
+> Name: Aden Luck (Mr)  
+> Age Range: 18 - 24  
+> Amount to invest: 100 000 - 200 000  
+> Employment category: Students - full-time, Clerical - casual  
+> Income range: $ 220 per week  
+> Debt: $ 33000  
 
 
-[Investment Products](https://www.moneysmart.gov.au/investing/invest-smarter/investing-challenge#!/investment-products/) Video 5 minutes on investment products.
+You have followed this up with phone call; The transcript follows.
 
-# Rates of return
+**Phone call transcript**
 
-# Charts
-[Fidelity Shares](http://www.fidelity.com.au/fidelityP2/?LinkServID=B91D14A6-B125-E8DC-BB83AAD60C35BC5A)  
+[You] Good morning, this is ____ calling from AFM regarding your recent online enquiry. 
 
-[Vanguard Shares](https://static.vgcontent.info/crp/intl/auw/docs/resources/index_chart.pdf?utm_source=IndexChart&utm_medium=LandingPage&utm_campaign=Ret2016&utm_content=Ret)  
+[Mr Luck] *Oh Hi, thanks for getting in contact.* 
 
+[You] I should like to set a time for you to come into the office but first, can I find out a little more about your goals and your situation? 
 
-# Glossary:
+[Mr Luck] *Of course. I am studying Biological Science and will graduate next year, just after my 21st birthday. My income comes from casual content writing work for a web-based news company. The reason I want financial advice is that I won about $140 000 as part of the first division in the lottery and I don't want that luck to go to waste.*  
 
-* Global financial landscape: The global financial crisis (GFC) of 2007–2008 caused the near-total collapse of many large financial institutions and downturns in stock markets around the world. The GFC hit its peak in late 2008. 
-* Australian financial industry: The financial services industry is the fourth largest sector of the Australian economy. The role of the financial services sector is to facilitate the productive flow of funds between sectors, companies and people. Reference: Financial Services [Australian Trade Commission] (http://www.austrade.gov.au/Buy/Australian-Industry-Capability/Financial-Services/default.aspx) 
-* Financial advice: [MoneySmart](https://www.moneysmart.gov.au/investing/financial-advice) 
-* Future of Financial Advice (FoFA): Refers to reforms introduced by the government in 2012 to improve the quality and access of financial advice for Australian consumers. The reforms were intended to make financial advice more transparent. [FoFA – Australian Treasury ](https://futureofadvice.treasury.gov.au/Content/Content.aspx?doc=home.htm)
-* Financial advisers: Develop and implement financial advice for individuals covering all areas of finance including: taxation, retirement, superannuation, insurance and investment planning. Financial advisers may perform the following tasks: 
-* interview clients to determine their financial status, objectives and risk profile o discuss financial options, develop financial plans and implement investment strategies 
-* monitor investment performance, and review investment plans based on market changes 
-* manage the preparation of financial reports, budgets, forecasts and statutory returns.  
+[You] I see, congratulations on your win and also seeking to put it to good use. What have you considered so far as investments?  
 
-Reference: Commonwealth of Australia 2013, myfuture.edu.au. [myfutures](http://www.myfuture.com/careers/details/personal-financial-advisors_13-2052.00) 
+[Mr Luck] *My aunt suggested buying half an investment property - a town house. A friend from uni has switched to part-time study because his online holiday business is growing. Honestly, I do not know much about it but he suggested buying in to help fund the next stage.* 
 
-* Investment strategies: Involve making decisions about the different types of investment options for an investment portfolio that enable accumulation of savings for the future, for example: term deposits and managed funds. 
-* Risk management strategies: Involve making decisions about a variety of ways people can manage the financial risks in life. Risk management strategies include: managing debt and/or over-indebtedness, diversifying investments, having a savings buffer, obtaining consumer protections such as insurances, savings and superannuation, and avoiding scams. 
-* Risk and return: [MoneySmart Risk & Return](https://www.moneysmart.gov.au/investing/invest-smarter/risk-and-return)
+[You] Tell me about your long and short term goals? 
+
+[Mr Luck] *In the long term, I want to buy a house, so I was thinking it could be a deposit when I start earning a salary - but that's another year away at least and I think maybe a fixed term deposit is more sensible. After graduation, I would like to spend about $6000 on a skiing holiday in Japan.*    
+
+[You] Do you have any protections against unforeseen circumstances? Also, you mention $33 000 of debt. Can you elaborate? 
+
+[Mr Luck] *I have $8 000 outstanding for my car loan. The other is what my HECS debt will be at the end of next year,* *$25 000. I live with family so there is flexibility to pay my rent and other expenses as much as I am able to. I don't have insurance or anything like that. I have financial security; The win has not changed my plans --- I just don't want to fritter it away.*  
+
+[You] Thank you for elaborating. We will set a time to meet at your convenience and I will be able to explain your options. 
 
 
 

@@ -4,8 +4,10 @@ navbar:
   left:
     - text: "Overview"
       href: task_desc.html
-    - text: "Sources"
+    - text: "Source"
       href: source_material.html
+    - text: "Resources"
+      href: resources.html
     - text: "The Task"
       href: task_parts.html
     - text: "The Criteria"
