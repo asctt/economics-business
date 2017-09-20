@@ -1,0 +1,18 @@
+--
+title: "Credits"
+author:  
+output:
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+<div style="position: relative; bottom: 0; left: 0; width: 30%;">
+  ![](images/EcoBusLogo_sm.png) 
+</div>
+
+# References
+
+
+
+

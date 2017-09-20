@@ -11,49 +11,41 @@ output:
 </div>
 
 # Conditions 
-Individual task  
-Completed in class time
-Stimulus material provided with task
-Length: 400–800 words for the response (stage 5)  
-Use a referencing style recommended by your teacher 
-Stages 1 – 5 must be completed  
-Stages 1 – 4 form the ground work for Stage 5: Response to client (advice)  
-Submit in two parts: A (Stages 1 – 4) B (Stage 5)
 
-## Goal 
+* Multimodal (digital presentation)
+* Individual task  
+* Completed in class time
+* Stimulus material provided with task
+* Length: 400–800 words for the advice (stage 5)  
+* Use a referencing style recommended by your teacher 
+* All stages are to be completed  
+    + Stages 1 – 4 form the ground work for Stage 5: Response to client (advice)  
+    + Submit as one presentation (e.g. Powerpoint, Sway, OneNote) 
+    + Stages 1 – 4 (situation/details) are presented as the background for Stage 5 (advice)
+
+# Overview of task
+
+The task is described below following the RAFT method: Role, Audience, Format, Topic (Santa, 1988, p.120). 
+
+
 
 Your goal is to conduct an inquiry and present a plan for a client about strategies to manage finances and accumulate future savings in a written statement or recorded message of advice.
 
 ## Role 
 
-You are a recent graduate [financial adviser] for Acacia Asset Management. You have been provided with a new client, 20-year-old Mr Aden Luck, who is anxious to understand how to manage his personal finances and build savings for the future.  
+You are a recent graduate [financial adviser] for Acacia Asset Management (AAM). You have been provided with a new client, 20-year-old Mr Aden Luck, who is anxious to understand how to manage his personal finances and build savings for the future.  
  
 ## Audience 
 
-Aden Luck is new to investing. You will need to provide clear explanations.
+Aden Luck is new to investing. You will need to provide clear explanations of your role and how you can assist him.
 
 ## Format 
 
-Your presentation will include visual elements, such as charts. You can choose to write your response as an email with embedded images or record it as a video presentation.
+You will create a multimodal presentation (such as a slide show) to explain to Mr Luck and present your *statement of advice*
 
-## Task 
+## Topic
 
-Analyse Mr Luck's situation and provide a financial plan with explanations.
+Convince Mr Luck of a range of strategies to achieve financial security in both the short and long terms through educating him about his options and risks. 
 
-## Success-Criteria 
 
-Please see the Criteria Sheet
 
-## Standard
-
-Pay attention to these aspects of the Year 9 Economics and Business Achievement Standard:
-
-* "They explain the importance of managing financial risks and rewards and analyse the different strategies that may be used"
-
-* "When researching, students develop questions and simple hypotheses to frame an investigation of an economic or business issue"
-
-* "They gather and analyse relevant data and information from different sources to answer questions, identify trends and explain relationships" 
-
-* "Students generate alternative responses to an issue and use cost-benefit analysis and appropriate criteria to propose a course of action"
-
-(ACARA, n.d.)

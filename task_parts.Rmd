@@ -39,6 +39,7 @@ Complete the table below. (Hint: Use the information provided at Question 1 abou
 Participant    | Roles        | Responsibilities 
 ---------------|--------------|------------
 Financial adviser |     |    
+
 ### GFC impact
  Explain how the global financial crisis impacted on the workplace and changed the roles and responsibilities of financial advisers. 
 
@@ -178,30 +179,31 @@ Recommendation: Amount to be allocated and/or action to be taken Justification f
 
 ## Propose a course of action about strategies that will manage finances and accumulate future savings for client. 
 
+(Literacy) Remember to use appropriate text structures and language features in your report. Consider appropriate language and modality to indicate the degree of certainty when proposing a course of action in the report. 
+
 (literacy) Use the following headings
 
 Title page  Title and date of report  Client’s name  Financial adviser’s name and company details 
 
-1.0 Purpose 
-Outline the purpose of the report 
-2.0 Financial goals and objectives 
-Provide a summary of information about the client, such as: financial goals and objectives other relevant personal and financial information about the client. 
-3.0 Managing risks and rewards  
-Explain the importance of managing risks and rewards 
- Identify the client’s risk profile 
- Explain how a range of investment and risk management strategies may be used to manage risk and rewards 
-4.0 Financial advice 
-4.1 Proposed investment strategies 
-Propose a course of action regarding investment strategies 
-Analyse and evaluate how the investment strategies will manage the client’s finances and accumulate future savings 
-Use evidence to support conclusions 
-4.2 Proposed risk management strategies 
-Propose a course of action regarding risk management strategies 
-Analyse and evaluate how the risk management strategies will manage the client’s finances and accumulate future savings Use evidence to support conclusions  
-5.0 Future outlook 
-Summarise the proposed course of action 
-Predict the potential consequences of implementing the proposed course of action  
+* 1.0 Purpose 
+    + Outline the purpose of the report 
+* 2.0 Financial goals and objectives 
+    + Provide a summary of information about the client, such as: financial goals and objectives and other relevant personal and financial information about the client. 
+* 3.0 Managing risks and rewards  
+    + Explain the importance of managing risks and rewards 
+    + Identify the client’s risk profile 
+    + Explain how a range of investment and risk management strategies may be used to manage risk and rewards 
+* 4.0 Financial advice 
+    + 4.1 Proposed investment strategies 
+        + Propose a course of action regarding investment strategies 
+        + Analyse and evaluate how the investment strategies will manage the client’s finances and accumulate future savings 
+        + Use evidence to support conclusions 
+    + 4.2 Proposed risk management strategies 
+        + Propose a course of action regarding risk management strategies 
+        + Analyse and evaluate how the risk management strategies will manage the client’s finances and accumulate future savings Use evidence to support conclusions  
+* 5.0 Future outlook 
+    + Summarise the proposed course of action 
+    + Predict the potential consequences of implementing the proposed course of action  
 
 ## Scaffold at E
-Remember to use appropriate text structures and language features in your report. Consider appropriate language and modality to indicate the degree of certainty when proposing a course of action in the report. 
 
