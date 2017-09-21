@@ -8,10 +8,15 @@ output:
 ---
 <div style="position: relative; bottom: 0; left: 0; width: 30%;">
   ![](images/AscLogo.png) 
-</div>
+</div>   
+
+
+
 
 # Conditions 
 
+* Due date: Final week of term 2
+* Weighting: 80% 
 * Multimodal (digital presentation)
 * Individual task  
 * Completed in class time
@@ -39,11 +44,13 @@ Aden Luck is new to investing. You will need to provide clear explanations of yo
 
 ## Format 
 
-You will create a multimodal presentation (such as a slide show) to explain to Mr Luck and present your *statement of advice*
+You will create a multimodal presentation (such as a slide show) to explain to Mr Luck and present your *statement of advice*. 
+
+You will need to consider your mode. This is a professional presentation; Images and text will need to fit together and follow a consistent theme. The design of this website is one model you can follow.
 
 ## Topic
 
-Convince Mr Luck of a range of strategies to achieve financial security in both the short and long terms through educating him about his options and risks. 
+Convince Mr Luck to employ your services in following one of a range of appropriate strategies to achieve financial security in both the short and long terms through educating him about his options and risks. 
 
 
 

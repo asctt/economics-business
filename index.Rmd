@@ -14,23 +14,31 @@ output:
 ## How to use this site
 
 
-This site describes the first task for Year 9 Economics and Business students of Acacia State College and acts as a guide, task document and criteria document.  
+This site describes the first task for Year 9 Economics and Business students of Acacia State College and acts as a guide, task document and criteria document. 
 
-* Use the menu bar at the top to navigate to relevant sections of your assignment.
+* This site serves a _model_ for presenting content digitally _in a professional way_. You are free to choose your own professional layout and electronic format.
+
+* Use the menu bar at the top to navigate to relevant pages describing aspects of your assignment.
+
+* Use the menu boxes at the left on each page to jump to entries.
+
+* Revisit the different pages as you progress with your task.
 
 * You can always return here by clicking "**Economics and Business[9]**" at the top left of any page.
 
-* Use the menu box at the left to jump to entries on the page
+
 
 ***
 
 * Use each of the pages to help
-    + Overview: Broad requirements 
-    + Stimulus: The source materials
-    + Task: Details and steps to completing the task
+    + Overview: Broad requirements
+    + Task: Specific requirements, details and steps to completing the task
     + Criteria: How you will be assessed
+    + Source: The background information
+    + Resources: Information you will need
+    + Methods: Guidance on using the resources
     
-
+***
 
 ## What the task assesses
 

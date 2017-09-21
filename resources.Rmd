@@ -12,11 +12,15 @@ output:
 </div>
 ---
 
-# Links 
-[MoneySmart](https://www.moneysmart.gov.au/) Investment advice from the Australian Securities and Investment Commission
+This page provides resources to help support your understanding of the task. Use the source materials on this page in combination with the[methods](methods.html) page explanations. 
 
+When using online resources think [who provides it?](methods.html).
 
-[Yields on investment](http://www.asx.com.au/education/investor-update-newsletter/201506-what-return-can-you-expect-in-this-market.htm) some more stuff
+# Links
+
+[MoneySmart](https://www.moneysmart.gov.au/) - Investment advice from the Australian Securities and Investment Commission
+
+[Yields on investment](http://www.asx.com.au/education/investor-update-newsletter/201506-what-return-can-you-expect-in-this-market.htm) - Explains how much an individual can expect to make on an investment.
 
 # Investment Options
 > There are four main types of investments, also called asset classes, each with their own benefits and risks. These are:  
@@ -27,61 +31,15 @@ output:
 
 (CommBank, n.d.)  [Link](https://www.commbank.com.au/guidance/investing/different-types-of-investments-201607.html)
 
-## Summary
-
-*Savings account* 
-
-* You earn income from interest 
-* You can access your money anytime with a debit card 
-* There's virtually no risk of losing your money 
-* Very safe — deposits < $250 000 guaranteed by the government 
-* Interest rates change regularly so income not consistent 
-* Interest earned from savings is taxable 
-* Account-keeping and transaction fees are often charged 
-
-*Fixed term deposit* 
-
-* Can calculate exactly what your return will be as the interest rate does not change for the term of investment 
-* Rates of return are often slightly higher than a regular savings account 
-* There's virtually no risk of losing your money 
-* Very safe — deposits < $250 000 guaranteed by the Government 
-* Penalties are incurred if you wish to access your money before the term deposit matures 
-* Less flexible than regular online savings accounts 
-* Honeymoon rates can drop if the investment automatically rolls over to a new term at maturity 
-
-*Property investment* 
-
-* You are investing in a tangible asset 
-* Property can be less price volatile than shares or other investments 
-* Potential to make a capital gain from growth in the value of the property 
-* Potential to earn a regular income from rent 
-* Tax benefits through negative gearing 
-* There are very high entry and exit costs (legal fees, stamp duty, agent commissions, etc.) 
-* Rental income often won’t cover your mortgage payments or other expenses 
-* A jump in interest rates will decrease your returns 
-* You may have to cover maintenance costs and periods of time without a tenant 
-* Takes many months to sell property assets so you won’t be able to access investment quickly 
-* Run risk of negative equity where the property market declined and investors owe more than the market value of the property 
-
-*Share funds* 
-
-* Potential capital gains from owning an asset that increases in value over time 
-* Potential income from dividends 
-* Lower tax rates on long-term capital gains 
-* Can sell and liquefy assets within a few days 
-* Prices highly volatile 
-* Dividends may vary 
-* If company goes bankrupt, money could be lost 
-* Small brokerage fees paid for transactions 
-
-
 [Investment Products](https://www.moneysmart.gov.au/investing/invest-smarter/investing-challenge#!/investment-products/) Video 5 minutes on investment products.
 
 # Rates of return
 
-Definitely need something here
+View these documents while referring to [methods](methods.html). You do not need to incorporate all the details provided into your assignment. Guidance is also provided on reading charts.
 
-# Charts
+[Russel Investments 2017 report for ASX](http://files-au.clickdimensions.com/russellinvestmentscom-axfox/files/r_rpt_asx_report_v2f_web_1707.pdf?_cldee=YS5kYXZpZHNvbkBpbnZlc3RzbWFydC5jb20uYXU=&recipientid=contact-6662eb821445e41182266c3be5a8d250-cd4f4a6ce43d421292b440bf1b11ab7f&esid=9a7b8afa-2073-e711-810d-3863bb367e08)
+
+
 [Fidelity Shares](http://www.fidelity.com.au/fidelityP2/?LinkServID=B91D14A6-B125-E8DC-BB83AAD60C35BC5A)  
 
 [Vanguard Shares](https://static.vgcontent.info/crp/intl/auw/docs/resources/index_chart.pdf?utm_source=IndexChart&utm_medium=LandingPage&utm_campaign=Ret2016&utm_content=Ret)  
