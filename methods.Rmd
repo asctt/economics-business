@@ -129,15 +129,18 @@ The logarithm is a concept you may see in year 10. To understand this chart you 
 
 For a logarithmic scale 10, 100, 1 000, 10 000 will be the same distance apart (times 10 gives the same distance). 
 
-![A illustration (ASCTT, 2017)](images/logvslin.png) (image ASCTT, 2017).
-If A shows growth on a linearly scaled y-axis, changing to a logarithmically scaled y-axis will create something looking more like B. 
+![log and linear scaled y axes](images/logvslin.png) (ASCTT, 2017)  
 
-A 5% change in _$100_ is _$5_, while a 5% change in _$10 000_ is _$500_. Changes in amount become bigger, hence this indicates relative changes. 
+Note that for larger values of y, the graph has a lesser gradient. As amount of money invested increases, so does the amount of change. A 5% change in $100 is 
+$5, while a 5% change in 
+$10 000 is 
+$500. Changes in amount become bigger, hence this indicates relative changes.
+
 
 ### 5 Events
 
 Events are shown on the timeline. Some are causes for changes in share value while others are responses to market conditions which are also relfected in share value. Note the Subprime lending crisis which contributed to the Global Financial Crisis (GFC) (ASIC, n.d.).
 
-
+***
 
 
