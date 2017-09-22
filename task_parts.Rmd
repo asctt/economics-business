@@ -25,30 +25,29 @@ Stage
 
 # Stage 1: Unpacking the context and business issue 
 
-Read (Source 1) of the stimulus to understand the context, objective and key terms of the assessment task.  
-Remember: If you have difficulties, run a text search  on the Sources page. All information is either provided or linked there 
+Read [Source](source_material.html) and then [Resources](resources.html) to understand the context, objective and key terms of the assessment task.  
 
-* Create a short written response (scaff)
+
+* Create short statements [(see Methods)](methods.html)
     + Explain your role and responsibilities as a *Financial adviser* 
     + As the financial adviser for AFM which kind workplace participant are you?  (employee, employers, sole trader in an - Industrial Organisations, -the government) 
-
-(scaff)(the context, objective and key terms) 
 
 * GFC impact
     + Explain how the global financial crisis impacted financial investments
     + changed regulation / government policy
     + changed the roles and responsibilities of financial advisers
 
+See [Glossary](resources.html) for key terms.
+
 # Stage 2: Develop questions to guide an inquiry
  
-Develop a hypothesis to frame your investigation. 
-
-(scaff) A hypothesis is a statement that is assumed to be true. It forms the basis of an evidence-based conclusion. 
+Develop a hypothesis to frame your investigation.  
+A hypothesis is a statement that is assumed to be true. It forms the basis of an evidence-based conclusion (see in ACHES043, ACARA, n.d.-a). 
 
 * Record your hypothesis. 
 * Develop questions about the hypothesis to frame your investigation of alternative strategies that manage financial risks and rewards.
 
-(scaff) short-term and long-term goals, investment strategies, risk management strategies  
+Consider short-term and long-term goals, investment strategies, risk management strategies [Glossary](resources.html).
 
 Question 1:  
 
@@ -57,13 +56,12 @@ Question 2:
 Question 3:  
 
 
-(scaff) As financial adviser, your objective is to conduct an inquiry and propose a course of action for client about strategies to accumulate future savings and manage personal finances in a written statement of advice. Your advice to the client should consider alternative strategies to manage risks and rewards. 
+As financial adviser (see [Glossary](resources.html)), your objective is to conduct an inquiry and propose a course of action for client about strategies to accumulate future savings and manage personal finances in a written statement of advice. Your advice to the client should consider alternative strategies to manage risks and rewards. 
 
 # Stage 3: Gather data and information about investment strategies
 
-(Source: Your Client) ‘Client email form transcript’  stimulus. The transcript provides personal and financial information.  
+Using ‘Client query form’ and 'phone transcript'  sources [Your Client](source_material.html), present relevant client data and information in a table.
 
-Present relevant client data and information 
 
 **Personal and financial information** 
 
@@ -82,72 +80,45 @@ Financial goals   |
 Short-term goals  |  
 Long-term goals   |
 
-**Read and interpret the data and information represented in charts regarding investment returns** (source: Returns)
+**Read and interpret the data and information represented in charts regarding investment returns** 
+
+(see [Rates of return](resources.htm))
 
 * Explain the data and information are represented in the charts. 
-* Identify and explain which investment option would make a moderate return on investment over the long term. Be sure to use data and information from the graph to support your response.
-* Do not forget the important disclaimer regarding past performance
+* Find an investment option which would deliver a moderate return in the long run. Identify and explain using data and information from the charts to support your response.
+* Do not forget the important disclaimer: *"Past performance is not an indication of future performance"*
 
  
-**Read and analyse (Source ) information about risks, benefits and costs of investment options** 
+**Read and analyse information about risks, benefits and costs of investment options** 
 
-a. Identify one investment option that guarantees a particular rate of return. Explain why a financial adviser would recommend it as suitable to include as part of an investment portfolio. 
-Investment option: 
-Reasons for its inclusion in an investment portfolio: 
-b. Identify an investment option that is highly susceptible to price fluctuations in the market. Explain why a financial adviser would recommend it as suitable to include as part of an investment portfolio. 
-Investment option: 
-Reasons for its inclusion in an investment portfolio: 
-c. Identify an investment option that provides quick and easy access to funds. Explain why a financial adviser would recommend it as suitable to include as part of an investment portfolio. 
+(see [Risks](resources.htm))
+
+Identify:
+a. one investment option which is low-risk with a particular rate of return. Explain why it is suitable to include as part of an investment portfolio. 
+b. one investment option that is highly susceptible to price fluctuations in the market. Explain why it is suitable to include as part of an investment portfolio. 
+c. one investment option that can be easily liquidated. Explain why it is suitable to include as part of an investment portfolio. 
 Investment option: 
 Reasons for its inclusion in an investment portfolio: 
 
 **Analyse the investment options available and use appropriate criteria to make a decision about a proposed course of action regarding an investment strategy for client**
 
-a. Identify a range of viable investment options and record them as Options A, B and C on the matrix below. 
-b. List the client’s financial goals and objectives as the appropriate criteria in the left column. 
+a. Identify different suitable investment options and record them as Options A, B and C. 
+b. List the client’s financial goals and objectives (long and short term) 
 c. Use the criteria to analyse the costs and benefits of each of the investment options. 
-Investment options Criteria Option A: Option B: Option C: 
-Risk and 
-return: 
-Investment options Criteria Option A: Option B: Option C: 
-Short-term 
-objectives: 
-Long-term 
-objectives: 
 
 **Evaluate how the alternative investment options will manage client's finances and accumulate future savings.**
  
-Use the following scale to evaluate how effectively the investment options meet client's needs according to the criteria. 
+Write notes to evaluate how effectively each investment option will manage the client’s finances and accumulate future savings. 
 
-* 2 = Highly suitable  
-* 1 = Somewhat suitable  
-* 0 = Not a very suitable option 
-
-a. Write notes to evaluate how effectively Investment option A will manage the client’s finances and accumulate future savings. 
-b. Write notes to evaluate how effectively Investment option B will manage the client’s finances and accumulate future savings. 
-c. Write notes to evaluate how effectively Investment option C will manage the client’s finances and accumulate future savings. 
-
-(scaff) Your analysis should consider factors like: the level of risk, desired returns, hidden costs and benefits, and investment time frames. 
+Remember to use terms from the [Glossary](resources.html)  including level of risk, desired returns, hidden costs and benefits, and investment time frames. 
 
 # Stage 4: Gather data and information about risk management strategies 
 
 **Gather relevant and reliable information about different strategies for managing financial risks from a variety of online and print sources.** 
 
-There is a variety of sources that provide reliable and relevant data and information about financial risk management strategies, for example: MoneySmart by ASIC and the Australian Competition and Consumer Commission (ACCC). Don’t forget to record the source of your data! 
-Strategies for managing financial risks Provide a definition and example Explain how each strategy manages financial risks Sources 
-Managing debt 
-and/or over-
-indebtedness Definition: Example: How this strategy manages financial risks: 
+Refer to [links](resources.html) or use find your own but remember, ["Who provides it?"](methods.html). Don’t forget reference your data.
 
-Strategies for managing financial risks Provide a definition and example Explain how each strategy manages financial risks
- Sources 
-Diversifying 
-investments Definition: Example: How this strategy manages financial risks: 
-Consumer 
-protection Definition: Example: How this strategy manages financial risks: 
-
-Strategies for managing financial risks Provide a definition and example Explain how each strategy manages financial risks Sources 
-Scam avoidance Definition: Example: How this strategy manages financial risks: 
+Provide a definition, example and explain how each strategy manages financial risks. 
 
 * Explain why it is important to manage financial risks and rewards. 
 * Analyse and evaluate the risk management strategies available using appropriate criteria to make a decision about a proposed course of action for client. 
@@ -158,19 +129,26 @@ Scam avoidance Definition: Example: How this strategy manages financial risks:
 
 # Stage 5: Develop and present evidence-based conclusions and reasoned arguments in a statement of advice 
 
-Your work from Stage 3 on investment strategies and Stage 4 on risk management form the basis to plan a course of action that will accumulate future savings and manage finances for client. 
-Include: 
+Your work from Stage 3 on investment strategies and Stage 4 on risk management form the basis to plan a course of action that will accumulate future savings and manage finances for client.  
+
+Include:  
+
 * Proposed investment and risk management strategies 
 * Recommendation: Amount to be allocated and/or action to be taken 
-* Justification for advice Predicted consequences 
+* Justification for advice 
+* Predicted consequences 
 
 **Propose a course of action about strategies that will manage finances and accumulate future savings for client** 
 
-(Scaff) Remember to use appropriate text structures and language features in your report. Consider appropriate language and modality to indicate the degree of certainty when proposing a course of action in the report. 
+This section will begin on a new page. Note that the previous sections provide information while this section provides the financial advice.
 
-(Scaff) Use the following headings
+Remember to use appropriate tone, text formatting and language features in your report. Consider modality to indicate the degree of certainty when proposing a course of action in the report. 
 
-Title page  Title and date of report   Client’s name  Financial adviser’s name and company details 
+**Use the following headings**
+
+*Title and date of report*   
+*Client’s name*
+*Financial adviser’s name and company details* 
 
 * 1.0 Purpose 
     + Outline the purpose of the report 

@@ -20,7 +20,7 @@ output:
 
 # Your Client
 
-Mr Aden Luck has won the lottery. He realises how lucky he is and does not want this good fortune to dissapate.
+Mr Aden Luck has won the lottery. He realises how lucky he is and does not want this good fortune to dissipate.
 
 Your manager has passed the task on to you including the following email produced from the AFM web enquiry form. 
 

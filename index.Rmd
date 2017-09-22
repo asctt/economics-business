@@ -31,12 +31,13 @@ This site describes the first task for Year 9 Economics and Business students of
 ***
 
 * Use each of the pages to help
-    + Overview: Broad requirements
-    + Task: Specific requirements, details and steps to completing the task
-    + Criteria: How you will be assessed
-    + Source: The background information
-    + Resources: Information you will need
-    + Methods: Guidance on using the resources
+    + (This page) **Economics & Business[9]**: Why you are doing this 
+    + **Overview**: Broad requirements
+    + **The Task**: Specific requirements, details and steps to completing the task
+    + **The Criteria**: How you will be assessed
+    + **Source**: The background information
+    + **Resources**: Information you will need
+    + **Methods**: Guidance on using the resources
     
 ***
 
@@ -54,19 +55,19 @@ Pay attention to these aspects of the Achievement Standard:
 
 * "Students generate alternative responses to an issue and use cost-benefit analysis and appropriate criteria to propose a course of action"
 
-(Australian Curriculum, Assessment and Reporting Authority [ACARA], n.d.a)
+(Australian Curriculum, Assessment and Reporting Authority [ACARA], n.d.-a)
 
 
-In completing this task, you will draw on your skills from the [General Capabilities](https://www.australiancurriculum.edu.au/f-10-curriculum/general-capabilities). This site will guide you to pay attention to [Literacy](https://www.australiancurriculum.edu.au/f-10-curriculum/general-capabilities/literacy/), [Numeracy](https://www.australiancurriculum.edu.au/f-10-curriculum/general-capabilities/numeracy/) and [Information and Communitication (ICT)](https://www.australiancurriculum.edu.au/f-10-curriculum/general-capabilities/information-and-communication-technology-ict-capability/) capabilities where needed.
+In completing this task, you will draw on your skills from the [General Capabilities](https://www.australiancurriculum.edu.au/f-10-curriculum/general-capabilities). This site will guide you to pay attention to [Literacy](https://www.australiancurriculum.edu.au/f-10-curriculum/general-capabilities/literacy/), [Numeracy](https://www.australiancurriculum.edu.au/f-10-curriculum/general-capabilities/numeracy/) and [Information and Communitication (ICT)](https://www.australiancurriculum.edu.au/f-10-curriculum/general-capabilities/information-and-communication-technology-ict-capability/) capabilities where needed (ACARA, n.d. -b).
 
 
 ## Why there so much guidance
 
-It may look like much of the task is in the form of follow the instructions, but these are just steps to guide you to the real task of thinking.
+It may look like much of the task is in the form of simply following instructions, but these are just steps to guide you to the real task of thinking.
 
 As students, you will develop stronger skills in critically thinking about issues if your reading is carefully guided (Healy, 2008, p.23). This will also help you appreciate the "design components" of the various sources and presentation piece (Healy, 2008, p.27). Directing you to "important features" "complements" your learning as you engage with the task (Tan, 2008, p.156).
 
 ## Help
 
-If you need help, go to the [FAQ - Contact](contact.html) page. Any questions sent by email will be added to the FAQ as anonymouse question and answer.
+If you need help, go to the [FAQ - Contact](contact.html) page. Any questions sent by email will be added to the FAQ as anonymous question and answer.
 

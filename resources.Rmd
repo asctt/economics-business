@@ -33,32 +33,47 @@ When using online resources think [who provides it?](methods.html).
 
 [Investment Products](https://www.moneysmart.gov.au/investing/invest-smarter/investing-challenge#!/investment-products/) Video 5 minutes on investment products.
 
+# Risk
+
+[MoneySmart Risk & Return](https://www.moneysmart.gov.au/investing/invest-smarter/risk-and-return)
+
+> As a general principle, the lower the risk, the lower the likely rate of return. You'll need to take some investment risk to end up with a healthy return over time.
+Your aim is to meet your goals, protect your capital and maximise returns, without exposing yourself to too much danger.
+
+(ASIC, n.d.)
+
+
 # Rates of return
 
-View these documents while referring to [methods](methods.html). You do not need to incorporate all the details provided into your assignment. Guidance is also provided on reading charts.
+View these documents while referring to [methods](methods.html). You do not need to incorporate nor understand all of the details provided for your assignment. Guidance is also provided on reading charts.
 
 [Russel Investments 2017 report for ASX](http://files-au.clickdimensions.com/russellinvestmentscom-axfox/files/r_rpt_asx_report_v2f_web_1707.pdf?_cldee=YS5kYXZpZHNvbkBpbnZlc3RzbWFydC5jb20uYXU=&recipientid=contact-6662eb821445e41182266c3be5a8d250-cd4f4a6ce43d421292b440bf1b11ab7f&esid=9a7b8afa-2073-e711-810d-3863bb367e08)
+
+Read the 'five major threats' and the charts 'Exhibit 3' and 'Exhibit 4'.
+
 
 
 [Fidelity Shares](http://www.fidelity.com.au/fidelityP2/?LinkServID=B91D14A6-B125-E8DC-BB83AAD60C35BC5A)  
 
-[Vanguard Shares](https://static.vgcontent.info/crp/intl/auw/docs/resources/index_chart.pdf?utm_source=IndexChart&utm_medium=LandingPage&utm_campaign=Ret2016&utm_content=Ret)  
-
-
 # Glossary:
 
-* Global financial landscape: The global financial crisis (GFC) of 2007–2008 caused the near-total collapse of many large financial institutions and downturns in stock markets around the world. The GFC hit its peak in late 2008. 
+* Global financial landscape: The global financial crisis (GFC) of 2007–2008 caused the near-total collapse of many large financial institutions and downturns in stock markets around the world. The GFC hit its peak in late 2008. ()
+
 * Australian financial industry: The financial services industry is the fourth largest sector of the Australian economy. The role of the financial services sector is to facilitate the productive flow of funds between sectors, companies and people. Reference: Financial Services [Australian Trade Commission] (http://www.austrade.gov.au/Buy/Australian-Industry-Capability/Financial-Services/default.aspx) 
+
 * Financial advice: [MoneySmart](https://www.moneysmart.gov.au/investing/financial-advice) 
+
 * Future of Financial Advice (FoFA): Refers to reforms introduced by the government in 2012 to improve the quality and access of financial advice for Australian consumers. The reforms were intended to make financial advice more transparent. [FoFA – Australian Treasury ](https://futureofadvice.treasury.gov.au/Content/Content.aspx?doc=home.htm)
+
 * Financial advisers: Develop and implement financial advice for individuals covering all areas of finance including: taxation, retirement, superannuation, insurance and investment planning. Financial advisers may perform the following tasks: 
-* interview clients to determine their financial status, objectives and risk profile o discuss financial options, develop financial plans and implement investment strategies 
-* monitor investment performance, and review investment plans based on market changes 
-* manage the preparation of financial reports, budgets, forecasts and statutory returns.  
+    + interview clients to determine their financial status, objectives and risk profile o discuss financial options, develop financial plans and implement investment strategies 
+    + monitor investment performance, and review investment plans based on market changes 
+    + manage the preparation of financial reports, budgets, forecasts and statutory returns.  
 
 Reference: Commonwealth of Australia 2013, myfuture.edu.au. [myfutures](http://www.myfuture.com/careers/details/personal-financial-advisors_13-2052.00) 
 
 * Investment strategies: Involve making decisions about the different types of investment options for an investment portfolio that enable accumulation of savings for the future, for example: term deposits and managed funds. 
+
 * Risk management strategies: Involve making decisions about a variety of ways people can manage the financial risks in life. Risk management strategies include: managing debt and/or over-indebtedness, diversifying investments, having a savings buffer, obtaining consumer protections such as insurances, savings and superannuation, and avoiding scams. 
-* Risk and return: [MoneySmart Risk & Return](https://www.moneysmart.gov.au/investing/invest-smarter/risk-and-return)
+
 

@@ -15,9 +15,13 @@ output:
 
 # Conditions 
 
-* Due date: Final week of term 2
+* Due date: Monday 25 June 2018
 * Weighting: 80% 
 * Multimodal (digital presentation)
+    + Presented in an electronic format (PowerPoint, webpage, OneNote, ... [see Methods](methods.html))
+    + Incorporate text and image at a minimum. Video or recorded voice could be used.
+    + _**Discuss with teacher**_
+    
 * Individual task  
 * Completed in class time
 * Stimulus material provided with task
@@ -44,9 +48,9 @@ Aden Luck is new to investing. You will need to provide clear explanations of yo
 
 ## Format 
 
-You will create a multimodal presentation (such as a slide show) to explain to Mr Luck and present your *statement of advice*. 
+You will create a multimodal presentation, such as a slide presentation () (see Conditions _above_, [Methods](methods.html)) to explain to Mr Luck and present your *statement of advice*. 
 
-You will need to consider your mode. This is a professional presentation; Images and text will need to fit together and follow a consistent theme. The design of this website is one model you can follow.
+You will need to consider your mode. This is a professional presentation; Images and text will need to fit together and follow a consistent theme. _The design of this website is one model you could follow_. 
 
 ## Topic
 
