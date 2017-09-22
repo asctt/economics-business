@@ -16,7 +16,7 @@ navbar:
       href: methods.html
     - text: "FAQ-Contact"
       href: contact.html
-    - text: "Credits"
+    - text: "References"
       href: credits.html
 output_dir: "."
 output:

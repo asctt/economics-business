@@ -1,5 +1,5 @@
 ---
-title: "Credits"
+title: "References"
 author:  
 output:
   html_document:
@@ -7,8 +7,45 @@ output:
     toc_float: true
 ---
 
-# References
 
+ACARA. (n.d.-a). _Economics and Business, The Australian Curriculum_. Retrieved September 20, 2017, from https://www.australiancurriculum.edu.au/f-10-curriculum/humanities-and-social-sciences/economics-and-business/
 
+ACARA. (n.d.-b). _General Capabilities, The Australian Curriculum_. Retrieved September 20, 2017, from https://www.australiancurriculum.edu.au/f-10-curriculum/general-capabilities/
 
+Australian Bureau of Statistics. (n.d.). _THE GLOBAL FINANCIAL CRISIS AND ITS IMPACT ON AUSTRALIA_. Retrieved September 20, 2017, from http://www.abs.gov.au/AUSSTATS/abs@.nsf/Lookup/1301.0Chapter27092009%E2%80%9310
 
+Australian Securities & Investments Commission. (n.d.). _Risk & Return_. Retrieved September 20, 2017, from https://www.moneysmart.gov.au/investing/invest-smarter/risk-and-return
+
+Australian Securities & Investments Commission. (n.d.). _Investment Products_. Retrieved September 20, 2017, from https://www.moneysmart.gov.au/investing/invest-smarter/investing-challenge#!/investment-products/
+
+CommBank. (2016). _Different types of investments_. Retrieved September 20, 2017, from https://www.commbank.com.au/guidance/investing/different-types-of-investments-201607.html
+
+Commonwealth of Australia. (n.d.). _Future of Financial Advice_. Retrieved September 20, 2017, from https://futureofadvice.treasury.gov.au/Content/Content.aspx?doc=home.htm
+
+Commonwealth of Australia. (2013). _Personal Financial Advisors_. Retrieved September 20, 2017, from http://www.myfuture.com/careers/details/personal-financial-advisors_13-2052.00
+
+FIL Responsible Entity (2016). _30 years in Australian and global shares_. Retrieved September 20, 2017, from http://www.fidelity.com.au/fidelityP2/?LinkServID=B91D14A6-B125-E8DC-BB83AAD60C35BC5A
+
+Healy, A. (2008). Expanding Student Capacities: Learning by Design Pedagogy. In A. Healy (Ed.), _Multiliteracies and diversity in education_: New pedagogies for expanding landscapes (pp. 2–29). Oxford University Press.
+
+Kalantzis, M., Cope, B., Chan, E., & Dalley-Trim, L. (2016). _Literacies_ (2nd ed.). Cambridge University Press.
+
+MathsIsFun.com. (n.d.). _Percentage change_. Retrieved September 20, 2017, from https://www.mathsisfun.com/numbers/percentage-change.html
+
+Owen, S., Hagel, P., Lingham, B., & Tyson, D. (n.d.). _Digital Literacies_. Deakin Learning Futures.
+
+Russell Investments (2017). _Long-term Investing Report_. Retrieved September 20, 2017, from http://files-au.clickdimensions.com/russellinvestmentscom-axfox/files/r_rpt_asx_report_v2f_web_1707.pdf?_cldee=YS5kYXZpZHNvbkBpbnZlc3RzbWFydC5jb20uYXU=&recipientid=contact-6662eb821445e41182266c3be5a8d250-cd4f4a6ce43d421292b440bf1b11ab7f&esid=9a7b8afa-2073-e711-810d-3863bb367e08
+
+Santa, C. M. (1988). _Content Reading Including Study Systems: Reading, Writing and Studying across the Curriculum_. Kendall/Hunt Publishing Company.
+
+Tan, J. P.-L. (2008). Closing the Gap: A Multiliteracies Approach to English Language Teaching for “At-Risk” Students in Singapore. In A. Healy (Ed.), _Multiliteracies and diversity in education: New pedagogies for expanding landscapes_ (pp. 144–167). Oxford University Press.
+
+***
+
+**Credits**
+
+Website tutorial https://jules32.github.io/rmarkdown-website-tutorial/  
+
+Setting up Rmarkdown, RStudio and Github  http://happygitwithr.com/
+
+***

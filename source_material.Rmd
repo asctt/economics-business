@@ -22,13 +22,13 @@ output:
 
 Mr Aden Luck has won the lottery. He realises how lucky he is and does not want this good fortune to dissipate.
 
-Your manager has passed the task on to you including the following email produced from the AFM web enquiry form. 
+Your manager has passed the task on to you including the following email produced from the AFM web query form. 
 
-**Enquiry details**
+**Details**
 
 > Name: Aden Luck (Mr)  
 > Age Range: 18 - 24  
-> Amount to invest: 100 000 - 200 000  
+> Amount to invest: $ 100 000 - 200 000  
 > Employment category: Students - full-time, Clerical - casual  
 > Income range: $ 220 per week  
 > Debt: $ 33000  

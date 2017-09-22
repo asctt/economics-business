@@ -15,12 +15,44 @@ This page contains advice and explanations to help you engage with the resources
 
 # Who provides it?
 
-Determine who is providing the information. Some linked sites are provided or regulated by the Government of the Commonwealth of Australia. Their purpose is to provide information to help Australian citizens (see [link](https://www.moneysmart.gov.au/about-us#Who) MoneySmart, n.d.). Other links in following sections are from businesses, also providing factual information but at the same time hoping to influence consumers to use their services.
+Determine who is providing the information. Some linked sites are provided or regulated by the Government of the Commonwealth of Australia. Their purpose is to provide information to help Australian citizens (see [link](https://www.moneysmart.gov.au/about-us#Who) MoneySmart, n.d.). Other links in following sections are from businesses, also providing factual information but at the same time hoping to influence consumers to use their services. It is necessary to understand this "background" to evaluate the "nature of information" (Hagel, Lingham, Owen & Tyson, n.d., p.2).
 
-(ref - uni)
 
 # Writing
 
+In creating written communication you need to consider what you want to communicate, your relationship with the reader and how to organise and present your writing. These are expressed in terms of field, tenor and mode (Kalantzis, Cope, Chan, & Dalley-Trim, 2016,  p.156).  
+
+Aspect of text | Description
+---------------|----------------------------
+Field          | subject matter or content - what it is about
+Tenor          | realtionship between writer and reader - how familiar, differences in status 
+Mode           | the role of the language - is it like spoken language, serious, formal
+
+As you read through the resource materials, consider these aspects.
+
+# Creating your presentation
+
+The Office software you use can export to multiple formats including html for webpages. You can work using a variety of tools and combining the various output into PowerPoint or Word for example.  
+
+
+# Percentage Change
+
+Percentage change is used to show a proportion of change in a value. Referring to an *old* and *new* value, the amount something has changed is the difference.  $new - old = difference$  
+
+This can be negative or positive. Usually you will use the positive number with the terms *increase* or *decrease*.
+
+The proportional change is the change expressed as a fraction of the old value. $\frac{difference}{old}$  
+
+
+Percentage means the same as divided by 100. $37.5\% = \frac{37.5}{100}$  
+
+
+This is why we multiply by 100 when calculating percentages, *because:* $\frac{37.5}{100} = 0.375 = 37.5\%$  
+
+
+In one expression, percentage change is $percentage \ change = \frac{new - old}{old} \times 100\%$
+
+(MathsIsFun, n.d.)
 
 # Investment Types
 
@@ -71,16 +103,17 @@ A Summary is provided to help understand the benefits and risk for different typ
 * If company goes bankrupt, money could be lost 
 * Small brokerage fees paid for transactions 
 
+_Summarised from_ (ASIC, n.d.-a).
 
 # Rates of return
 
-Generally, the lower the risk, the lower the return. (see [link](https://www.moneysmart.gov.au/investing/invest-smarter/risk-and-return) ASIC, n.d.)
+Generally, the lower the risk, the lower the return. (see [MoneySmart](https://www.moneysmart.gov.au/investing/invest-smarter/risk-and-return) (ASIC, n.d.-a)
 
 In determining strategies, you may consider different amounts of risk and return but this will need to be clearly stated in your *advice statement* (Stage 5).
 
 # Charts
 
-![Adapted from 30 Years in Australian and Global Shares (FIL Responsible Entity, 2017)](images/Shares-chart-an.png)
+![Adapted from 30 Years in Australian and Global Shares (FIL Responsible Entity, 2017)](images/Shares-chart-an.png) Adapted from 30 Years in Australian and Global Shares (FIL Responsible Entity, 2017)
 
 ### 1 Title
 
@@ -96,8 +129,8 @@ The logarithm is a concept you may see in year 10. To understand this chart you 
 
 For a logarithmic scale 10, 100, 1 000, 10 000 will be the same distance apart (times 10 gives the same distance). 
 
-![A illustration (ASCTT, 2017)](images/logvslin.png)
-If A shows growth on a linearly scaled y-axis, changing to a logarithmically scaled y-axis will create something looking more like B.
+![A illustration (ASCTT, 2017)](images/logvslin.png) (image ASCTT, 2017).
+If A shows growth on a linearly scaled y-axis, changing to a logarithmically scaled y-axis will create something looking more like B. 
 
 A 5% change in _$100_ is _$5_, while a 5% change in _$10 000_ is _$500_. Changes in amount become bigger, hence this indicates relative changes. 
 
@@ -105,8 +138,6 @@ A 5% change in _$100_ is _$5_, while a 5% change in _$10 000_ is _$500_. Changes
 
 Events are shown on the timeline. Some are causes for changes in share value while others are responses to market conditions which are also relfected in share value. Note the Subprime lending crisis which contributed to the Global Financial Crisis (GFC) (ASIC, n.d.).
 
-# Terminology
 
-The Australian Curriculum website provides a glossary of Economics and Business terms. Terminology relevant to understanding and completing the task as elaborated on here.
 
 
