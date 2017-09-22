@@ -25,14 +25,14 @@ In creating written communication you need to consider what you want to communic
 Aspect of text | Description
 ---------------|----------------------------
 Field          | subject matter or content - what it is about
-Tenor          | realtionship between writer and reader - how familiar, differences in status 
+Tenor          | relationship between writer and reader - how familiar, differences in status 
 Mode           | the role of the language - is it like spoken language, serious, formal
 
 As you read through the resource materials, consider these aspects.
 
 # Creating your presentation
 
-The Office software you use can export to multiple formats including html for webpages. You can work using a variety of tools and combining the various output into PowerPoint or Word for example.  
+The Office software you use can export to multiple formats including html for web pages. You can work using a variety of tools and combining the various output into PowerPoint or Word for example.  
 
 
 # Percentage Change
@@ -61,7 +61,7 @@ A Summary is provided to help understand the benefits and risk for different typ
 *Savings account* 
 
 * You earn income from interest 
-* You can access your money anytime with a debit card 
+* You can access your money any time with a debit card 
 * There's virtually no risk of losing your money 
 * Very safe — deposits < $250 000 guaranteed by the government 
 * Interest rates change regularly so income not consistent 
@@ -139,7 +139,7 @@ $500. Changes in amount become bigger, hence this indicates relative changes.
 
 ### 5 Events
 
-Events are shown on the timeline. Some are causes for changes in share value while others are responses to market conditions which are also relfected in share value. Note the Subprime lending crisis which contributed to the Global Financial Crisis (GFC) (ASIC, n.d.).
+Events are shown on the time line. Some are causes for changes in share value while others are responses to market conditions which are also reflected in share value. Note the Subprime lending crisis which contributed to the Global Financial Crisis (GFC) (ASIC, n.d.).
 
 ***
 

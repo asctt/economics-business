@@ -18,7 +18,7 @@ output:
 * Due date: Monday 25 June 2018
 * Weighting: 80% 
 * Multimodal (digital presentation)
-    + Presented in an electronic format (PowerPoint, webpage, OneNote, ... [see Methods](methods.html))
+    + Presented in an electronic format (PowerPoint, web page, OneNote, ... [see Methods](methods.html))
     + Incorporate text and image at a minimum. Video or recorded voice could be used.
     + _**Discuss with teacher**_
     
@@ -29,7 +29,7 @@ output:
 * Use a referencing style recommended by your teacher 
 * All stages are to be completed  
     + Stages 1 – 4 form the ground work for Stage 5: Response to client (advice)  
-    + Submit as one presentation (e.g. Powerpoint, Sway, OneNote) 
+    + Submit as one electronic document 
     + Stages 1 – 4 (situation/details) are presented as the background for Stage 5 (advice)
 
 # Overview of task
